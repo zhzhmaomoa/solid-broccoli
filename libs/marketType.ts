@@ -1,0 +1,1 @@
+import marketTypes from "../data/marketTypes.json";

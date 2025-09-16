@@ -1,0 +1,32 @@
+[
+    {
+        "name":"apple",
+        "unit":["斤"],
+        "pic":"https://images.pexels.com/photos/206959/pexels-photo-206959.jpeg",
+        "description":"新鲜的苹果，甜美多汁。"
+    },
+    {
+        "name":"banana",
+        "unit":["斤"],
+        "pic":"https://images.pexels.com/photos/365810/pexels-photo-365810.jpeg",
+        "description":"成熟的香蕉，富含营养。"
+    },
+    {
+        "name":"carrot",
+        "unit":["斤"],
+        "pic":"https://images.pexels.com/photos/6631952/pexels-photo-6631952.jpeg",
+        "description":"新鲜的胡萝卜，脆甜可口。"
+    },
+    {
+        "name":"broccoli",
+        "unit":["斤"],
+        "pic":"https://images.pexels.com/photos/2280620/pexels-photo-2280620.jpeg",
+        "description":"绿色的西兰花，营养丰富。"
+    },
+    {
+        "name":"tomato",
+        "unit":["斤"],
+        "pic":"https://images.pexels.com/photos/10895623/pexels-photo-10895623.jpeg",
+        "description":"红润的西红柿，酸甜适中。"
+    }
+]

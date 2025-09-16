@@ -1,0 +1,32 @@
+[
+    {
+        "city":"北京",
+        "district":"朝阳区",
+        "market":"朝阳大悦城"
+    },
+    {
+        "city":"北京",
+        "district":"海淀区",
+        "market":"五道口华联"
+    },
+    {
+        "city":"上海",
+        "district":"浦东新区",
+        "market":"世纪汇广场"
+    },
+    {
+        "city":"上海",
+        "district":"徐汇区",
+        "market":"太平洋百货"
+    },
+    {
+        "city":"广州",
+        "district":"天河区",
+        "market":"天环广场"
+    },
+    {
+        "city":"广州",
+        "district":"越秀区",
+        "market":"中华广场"
+    }
+]
