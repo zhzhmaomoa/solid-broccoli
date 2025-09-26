@@ -1,0 +1,14 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Next.js: Debug Full Stack (dev server)",
+      "type": "node-terminal",
+      "request": "launch",
+      "command": "pnpm run dev",
+      "env": {
+        "NODE_OPTIONS": "--inspect" // 确保 Node.js 调试器已开启
+      }
+    },
+  ]
+}

@@ -1,32 +1,44 @@
 [
-    {
-        "city":"北京",
-        "district":"朝阳区",
-        "market":"朝阳大悦城"
-    },
-    {
-        "city":"北京",
-        "district":"海淀区",
-        "market":"五道口华联"
-    },
-    {
-        "city":"上海",
-        "district":"浦东新区",
-        "market":"世纪汇广场"
-    },
-    {
-        "city":"上海",
-        "district":"徐汇区",
-        "market":"太平洋百货"
-    },
-    {
-        "city":"广州",
-        "district":"天河区",
-        "market":"天环广场"
-    },
-    {
-        "city":"广州",
-        "district":"越秀区",
-        "market":"中华广场"
-    }
+  {
+    "id": "4a990678-1e47-4c9d-b14d-a4e1d249c64d",
+    "city": "北京",
+    "district": "朝阳区",
+    "market": "朝阳大悦城"
+  },
+  {
+    "id": "0727ba2b-0472-4ae4-b967-cd872bf2bb26",
+    "city": "北京",
+    "district": "海淀区",
+    "market": "五道口华联"
+  },
+  {
+    "id": "208cf27b-f781-4594-b8eb-ff152b54b21e",
+    "city": "上海",
+    "district": "浦东新区",
+    "market": "世纪汇广场"
+  },
+  {
+    "id": "59bec8b8-248b-43c4-b82b-6ff79a6e7053",
+    "city": "上海",
+    "district": "徐汇区",
+    "market": "太平洋百货"
+  },
+  {
+    "id": "db274dd1-8e75-4e1c-baf4-721cd9445e04",
+    "city": "广州",
+    "district": "天河区",
+    "market": "天环广场"
+  },
+  {
+    "id": "4ad5fcef-38b2-477e-9592-54743d0b772d",
+    "city": "广州",
+    "district": "越秀区",
+    "market": "中华广场"
+  },
+  {
+    "id": "7f18c550-4d51-4885-a6c3-81df96a858d8",
+    "city": "济南市",
+    "district": "市中区",
+    "market": "领秀城"
+  }
 ]
